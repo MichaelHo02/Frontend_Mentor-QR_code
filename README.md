@@ -66,5 +66,4 @@ In the near future I will try to work on ultilize the variable such as predefine
 ## Author
 
 - Website - [Ho Le Minh Thach (Michael Ho)](https://github.com/MichaelHo02)
-  <!-- - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername) -->
-  <!-- - Twitter - [@yourusername](https://www.twitter.com/yourusername) -->
+- Frontend Mentor - [@MichaelHo02](https://www.frontendmentor.io/profile/MichaelHo02)
