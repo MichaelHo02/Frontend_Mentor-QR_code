@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./screenshot/my-desktop-design.png) ![](./screenshot/my-mobile-design.png)
 
 ### Links
-- Live Site URL: [Frontend_Mentor-QR_code](https://michaelho02.github.io/Frontend_Mentor-QR_code/)
+- Live Site URL: [See the example from my site](https://michaelho02.github.io/Frontend_Mentor-QR_code/)
 
 ## My process
 
